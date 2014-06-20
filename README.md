@@ -7,15 +7,9 @@ The first commit is a semi-working version but with a set window size three time
 
 One note is on the TTF-font I've created:
 
-A-Z are used for the regular letters
-
-
-a-q are used for miscellaneous specials like PTS, 100, 300, 500, 700 and 1000 point score
-
-
-", !, -, / represent their respective characters
-
-
-@ is used as the copyright symbol
+* A-Z are used for the regular letters
+* a-q are used for miscellaneous specials like PTS, 100, 300, 500, 700 and 1000 point score
+* ", !, -, / represent their respective characters
+* @ is used as the copyright symbol
 
 Font can be downloaded seperately from: http://fontstruct.com/fontstructions/show/packman_7
